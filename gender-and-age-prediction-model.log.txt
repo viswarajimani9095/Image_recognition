@@ -1,0 +1,6 @@
+3.2s 1 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+4.7s 2 [NbConvertApp] Support files will be in __results___files/
+4.7s 3 [NbConvertApp] Making directory __results___files
+4.7s 4 [NbConvertApp] Making directory __results___files
+4.7s 5 [NbConvertApp] Making directory __results___files
+4.7s 6 [NbConvertApp] Writing 352946 bytes to __results__.html
